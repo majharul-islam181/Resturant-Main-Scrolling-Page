@@ -43,6 +43,8 @@ class Categories extends StatefulWidget {
 }
 
 class _CategoriesState extends State<Categories> {
+
+  
   // int selectedIndex = 0;
   late ScrollController _controller;
   @override
